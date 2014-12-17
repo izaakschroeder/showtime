@@ -1,0 +1,11 @@
+{
+	"name": "showtime",
+	"version": "0.1.0",
+	"description": "Put on a jolly good show.",
+	"main": "lib/app.js",
+	"dependencies": {
+		"ws2811": "^0.1.0",
+		"express": "^4.10.6",
+		"redis": "^0.12.1"
+	}
+}
